@@ -61,7 +61,7 @@ ShortLink/
 
 * Автор: [waneyok]
 * Email: [waneyok@yandex.ru]
-* Репозиторий: [https://github.com/waneyok/Short_Link]
+* Репозиторий: [https://github.com/waneyok/ShortLink]
 
 ## Версии
 
