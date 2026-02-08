@@ -1,4 +1,4 @@
-# README.md — Short Link
+# Short Link
 
 ## О приложении
 
