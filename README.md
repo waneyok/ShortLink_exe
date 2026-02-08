@@ -1,5 +1,10 @@
 # Short Link
 
+<img width="832" height="610" alt="image" src="https://github.com/user-attachments/assets/b30023a1-1fc2-49d6-80bc-c00f238ddf7c" />
+
+
+
+
 ## О приложении
 
 **Short Link** — локальное приложение для создания коротких ссылок без подключения к внешним сервисам (БД, API, серверам). Всё хранится на вашем устройстве.
